@@ -1,0 +1,8 @@
+train: D:\BaiduNetdiskDownload\Drone-detection-dataset-master\Data\spilt_birds\train
+val:  D:\BaiduNetdiskDownload\Drone-detection-dataset-master\Data\spilt_birds\test
+test:  D:\BaiduNetdiskDownload\Drone-detection-dataset-master\Data\spilt_birds\valid
+nc: 2
+names:
+  0: 'DRONE'
+  1: 'BIRD'
+

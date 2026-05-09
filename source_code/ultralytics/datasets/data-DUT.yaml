@@ -1,0 +1,6 @@
+train: E:\low attitude object dect\ultralytics-main\train
+val:  E:\low attitude object dect\ultralytics-main\valid
+test:  E:\low attitude object dect\ultralytics-main\test
+nc: 1
+names:
+  0: 'DRONE'

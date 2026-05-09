@@ -1,0 +1,7 @@
+train: E:\ultralytics-main\ultralytics\datasets\bird-small\train
+val:  E:\ultralytics-main\ultralytics\datasets\bird-small\valid
+test:  E:\ultralytics-main\ultralytics\datasets\bird-small\test
+nc: 2
+names:
+  0: 'DRONE'
+  1: 'BIRD'

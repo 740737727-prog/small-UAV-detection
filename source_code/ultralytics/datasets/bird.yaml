@@ -1,0 +1,6 @@
+train: D:\BaiduNetdiskDownload\FBD-SV-2024\data\train
+val:  D:\BaiduNetdiskDownload\FBD-SV-2024\data\valid
+nc: 2
+names:
+  0: 'BIRD'
+  1: 'DRONE'
